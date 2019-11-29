@@ -1,1 +1,1 @@
-Custom made training for the RGS (rehabilitation system) developed by the SPECS lab. I have uploaded both the experimental and control group builds as well as the visualization/data analysis scripts
+Custom made training for the RGS (rehabilitation system) developed by the SPECS lab. I have uploaded the basic system where the ADC mapper was mainly tinkered with to adjust velocity as well as frequency of spheres during training.
